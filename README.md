@@ -1,5 +1,5 @@
 # Artificial-Intelligence  
-## Local Search: :relaxed:  
+## [Local Search](https://github.com/GhazaleZe/Artificial-Intelligence/tree/main/local_search): :relaxed:  
 ### Requirement  
 - python3.x
 - Although it's not necessary,  I use Pycharm mostly for coding python.  
@@ -25,7 +25,7 @@ There are 3 teachers who can teach specific courses like:
 - Teacher B: courses 2,3,4,5  
 - Teacher C: all courses  
 
-**Solution:**   
+Solution:   
 - solution is in **Courses.mzn**  
 
 ### N-Queen with minizinc  
@@ -34,7 +34,10 @@ There are 3 teachers who can teach specific courses like:
 #### Explanation of the solution  
 Problem:  
 - This is a famous n-queen problem which n in the input and n * n board after placing n queen in the output.  
+
+Solution:
 - soulution is in **n_queen.mzn** file.  
+
 ### Orthogonal Latin Square with Choco  
 #### Requirement  
 #### Explanation of the solution  
