@@ -24,18 +24,14 @@ There are 3 teachers who can teach specific courses like:
 - Teacher A: courses 3,4  
 - Teacher B: courses 2,3,4,5  
 - Teacher C: all courses  
-
-Solution:   
-- solution is in **Courses.mzn**  
+   
+**Solution** is in **Courses.mzn**  
 
 ### N-Queen with minizinc  
 #### Requirement  
 - [MiniZinc](https://www.minizinc.org/)  
 #### Explanation of the solution  
-Problem:  
 - This is a famous n-queen problem which n in the input and n * n board after placing n queen in the output.  
-
-Solution:
 - soulution is in **n_queen.mzn** file.  
 
 ### Orthogonal Latin Square with Choco  
