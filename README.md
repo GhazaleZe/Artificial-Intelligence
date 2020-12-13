@@ -1,4 +1,5 @@
 # Artificial-Intelligence  
+If you hava something to say join [Discussion](https://github.com/GhazaleZe/Artificial-Intelligence/discussions).  
 ## [Local Search](https://github.com/GhazaleZe/Artificial-Intelligence/tree/main/local_search): :relaxed:  
 ### Requirement  
 - python3.x
@@ -39,6 +40,7 @@ There are 3 teachers who can teach specific courses like:
 - I used [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows) for java programming.  
 - You need [choco solver](https://github.com/chocoteam/choco-solver), I downloaded [choco-parsers-4.10.6-jar-with-dependencies.jar](https://github.com/chocoteam/choco-solver/releases/download/4.10.6/choco-parsers-4.10.6-jar-with-dependencies.jar) file and add it to my IntelliJ IDEA  project.  
 #### Explanation of the solution  
+**Solution** is in **OLS_CSP.java**
 ## Support
 ghazalze@yahoo.com    
 Thanks [@arman324](https://github.com/arman324) :sweat_smile:
