@@ -36,6 +36,8 @@ There are 3 teachers who can teach specific courses like:
 
 ### Orthogonal Latin Square with Choco  
 #### Requirement  
+- I used [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows) for java programming.  
+- You need [choco solver](https://github.com/chocoteam/choco-solver), I downloaded [choco-parsers-4.10.6-jar-with-dependencies.jar](https://github.com/chocoteam/choco-solver/releases/download/4.10.6/choco-parsers-4.10.6-jar-with-dependencies.jar) file and add it to my IntelliJ IDEA  project.  
 #### Explanation of the solution  
 ## Support
 ghazalze@yahoo.com    
