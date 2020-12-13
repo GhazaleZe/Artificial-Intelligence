@@ -7,7 +7,7 @@
 In local_seach file:  
 The **max sat problem** is solved with **Random Restart Hill Climbing**.  
 The **0-1 knapsack problem** is sovled with **Tabu Search**.  
-## CSP: :heart_eyes:
+## [CSP](https://github.com/GhazaleZe/Artificial-Intelligence/tree/main/CSP): :heart_eyes:
 ### Course Scheduling Problem  
 #### Requirement  
 - [MiniZinc](https://www.minizinc.org/)  
