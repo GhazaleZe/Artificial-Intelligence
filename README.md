@@ -44,7 +44,7 @@ There are 3 teachers who can teach specific courses like:
 ## [Inference: working with Maple](https://github.com/GhazaleZe/Artificial-Intelligence/blob/main/ghazale.mw)
 - Input: DNF
 - Goal: Transfer DNF to CNF and check satisfiability. 
-- Soulution is in  ghazale.mw  
+- Soulution is ghazale.mw  
 
 ## Support
 ghazalze@yahoo.com    
